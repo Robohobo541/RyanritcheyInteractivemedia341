@@ -1,0 +1,56 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body{
+    background: linear-gradient(to top,rgb(174, 232, 255),rgb(255, 244, 213))
+}
+
+h1{
+    background-image: url(images/catbg.jpg);
+    background-repeat: repeat-x;
+    text-align: center;
+    font-size: 500%;
+    color: rgb(98, 202, 168);
+}
+
+h2{
+    color: rgb(98, 202, 168);
+}
+
+.introh2{
+    text-align: center;
+ text
+}
+
+a{
+  color: rgb(66, 5, 46);  
+}
+
+image{
+    width: 100rem;
+}
+
+li{
+    color:brown;
+}
+
+.intro{
+    text-align: center;
+    color:brown;
+    font-size: 120%;
+    padding-left: 1rem;
+}
+
+b{
+    color:red;
+}
+
+.images {
+    border-radius: 50px; 
+    border-color: rgb(66, 5, 46); 
+    border-width: 25px;
+    width: 50%;
+    
+}
