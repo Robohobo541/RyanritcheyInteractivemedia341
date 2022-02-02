@@ -8,7 +8,7 @@ body{
 
     height: 100vh;
     padding:0;
-    margin: top 30px;;
+    margin: top 30px;
 }
 
 a:hover{
@@ -25,6 +25,7 @@ a {
 
 .btn-1{
     width: 150px;
+    height: 6em;
     display:inherit;
     align-items: center;
     border:100%;
