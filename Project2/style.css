@@ -25,7 +25,6 @@ a {
 
 .btn-1{
     width: 150px;
-    height: 6em;
     display:inherit;
     align-items: center;
     border:100%;
@@ -37,6 +36,28 @@ a {
     border: 10px;
     text-align: center;
     
+}
+
+#btn-1:hover{
+    font-weight: 600;
+    background-color: rgb(201, 134, 95);
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    Border: 10px;
+    box-shadow: 5px 5px 0px #af5a5a;
+    transition-duration:.3s;
+}
+
+#btn-1:focus{
+    font-weight: 600;
+    background-color: rgb(231, 78, 180);
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    Border: 10px;
+    box-shadow: 5px 5px 0px #905aaf;
+    transition-duration:.3s;
 }
 
 .btn-2{
@@ -83,27 +104,7 @@ a {
     text-align: center;
 }
 
-#btn-1:hover{
-    font-weight: 600;
-    background-color: rgb(201, 134, 95);
-    border-radius: 3px;
-    padding: 10px;
-    margin: 10px;
-    Border: 10px;
-    box-shadow: 5px 5px 0px #af5a5a;
-    transition-duration:.3s;
-}
 
-#btn-1:focus{
-    font-weight: 600;
-    background-color: rgb(231, 78, 180);
-    border-radius: 3px;
-    padding: 10px;
-    margin: 10px;
-    Border: 10px;
-    box-shadow: 5px 5px 0px #905aaf;
-    transition-duration:.3s;
-}
 
 a {
     text-decoration:none;
