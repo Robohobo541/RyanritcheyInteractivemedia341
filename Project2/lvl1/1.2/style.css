@@ -1,0 +1,99 @@
+
+body{ 
+    min-height: 100%;
+    background-image: url('../images/crusin.gif');
+    background-position-y: 120px;
+    background-size: 100%;
+    background-color: none;
+    background-repeat: no-repeat;
+    text-align: center;
+
+    height: 100%;
+    padding:0;
+    margin: top 30px;
+}
+a:hover{
+    color: rgb(213, 255, 146);
+    transition:ease-in;
+}
+a {
+    text-decoration:none;
+    font-family:Arial;
+    display: block;
+    color: rgb(181, 255, 212);
+}
+.btn-2{
+    width: 150px;
+    display: inline-block;
+    font-weight: 600;
+    background-color: cadetblue;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    Border: 10px;
+}
+.btn-2:hover{
+    font-weight: 600;
+    background-color: rgb(201, 134, 95);
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    Border: 10px;
+    box-shadow: 5px 5px 0px #af5a5a;
+    transition-duration:.3s;
+}
+#btn-1{
+    width: 150px;
+    display:ruby;
+    align-items: center;
+    border:100%;
+    font-weight: 600;
+    background-color: cadetblue;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    text-align: center;
+}
+#btn-1:hover{
+    font-weight: 600;
+    background-color: rgb(201, 134, 95);
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    Border: 10px;
+    box-shadow: 5px 5px 0px #af5a5a;
+    transition-duration:.3s;
+}
+#btn-1:focus{
+    font-weight: 600;
+    background-color: rgb(231, 78, 180);
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    Border: 10px;
+    box-shadow: 5px 5px 0px #905aaf;
+    transition-duration:.3s;
+}
+.container{
+    min-width: 100%;
+    display: ruby;
+    border-radius: 20px;
+    align-items: center;
+    position: fixed;
+    background-color: rgb(41, 81, 104);
+    width: 50%;
+}
+
+.center{
+    display: inline-block;
+    background-color: rgb(41, 81, 104);
+    width: 500px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+#html-only{
+    background-color: aqua;
+}
