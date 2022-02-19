@@ -1,0 +1,72 @@
+
+.title{
+    text-align: center;
+}
+
+.shel{
+    text-align: center;
+}
+
+.poem{
+    text-align: center;
+    width: 100px;
+    margin: 50px auto;
+}
+
+.poem2{
+    text-align: center;
+    width:100px;
+    margin:-464px auto;
+}
+
+.poem3{
+    text-align: center;
+    width: 100px;
+    margin: 50px auto;
+}
+
+.poem4{
+    text-align: center;
+    width:100px;
+    margin:-464px auto;
+}
+
+.rotater{
+    transform: rotate(35deg);   
+}
+
+.rotatel{
+    transform: rotate(-35deg);
+}
+
+.cross{
+    display:inline-block;
+    width:100%;
+}
+
+.cross2{
+    display:inline-block;
+    width: 100%;
+    margin-top:300px;
+}
+
+.cross3{
+    display:inline-block;
+    width:100%;
+    margin-top:-150px;
+}
+.cross4{
+    display:inline-block;
+    width:100%;
+    margin-top: -150px;
+}
+
+.tip{
+width:300px;
+margin:-40px auto;
+border-radius: 0px 0px 90px 90px;
+}
+
+.toe{
+    text-align: center;
+}
