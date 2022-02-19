@@ -1,3 +1,20 @@
-.copy{
-    width:5000px;
+.title{
+    display:block;
+    float: right;
+}
+
+.shel{
+    text-align: right;
+    float: right;
+    display:block;
+    margin-top: 100px;
+    margin-right: -100px;
+}
+
+.top{
+}
+
+.up{
+    margin: 10px auto;
+    text-align: center;
 }
