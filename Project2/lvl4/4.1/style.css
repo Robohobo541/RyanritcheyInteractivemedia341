@@ -1,0 +1,179 @@
+body{
+    background-image: linear-gradient(rgb(127, 27, 173), rgb(219, 121, 195));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom:6px;
+}
+
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    letter-spacing:2em;
+    font-size:larger;
+    color: rgb(255, 196, 0);
+    text-align: center;
+    margin:100px auto;
+}
+
+.shel{
+    text-align: center;
+    font-size: medium;
+    color: rgb(255, 228, 153);
+    letter-spacing: 1em;
+    margin-left:-20px;
+    margin-bottom: 250px;
+}
+
+.copy{
+    text-align: center;
+    color:rgb(255, 228, 153);
+}
+
+.large{
+    font-size: 2em;
+}
+
+.fellup{
+    padding:0px auto;
+    width:20px;
+    text-align: center;
+    margin:60px auto;
+    font-size: 1.5em;
+    color:rgb(255, 228, 153);
+}
+
+.up{
+    font-size: 7em;
+    color: rgb(59, 193, 255);
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: rgb(175, 196, 255);
+  letter-spacing: .5em;
+  text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin: 0px auto;
+}
+
+.roof{
+    font-size: 2em;
+    color: bisque;
+    display: inline-block;
+    text-align: left;
+    margin: 50px 50% 0px 50%;
+    
+}
+
+.town{
+    font-size: 2em;
+    margin:20px 20px 0px auto;
+    display:inline-block;
+    color: bisque;
+}
+
+.tree{
+    font-size: 2em;
+    margin:20px 20px 0px auto;
+    display:inline-block;
+    color: bisque;
+}
+
+.mountains{
+    font-size: 2em;
+    margin:20px 20px 0px auto;
+    display:inline-block;
+    color: bisque;
+}
+
+.colors{
+    font-size: 2em;
+    margin:20px 20px 0px auto;
+    display:inline-block;
+    color: bisque;
+}
+
+.sounds{
+    font-size: 2em;
+    margin:20px 20px 0px auto;
+    display:inline-block;
+    color: bisque;
+
+}
+
+.dizzy{
+    width:200px;
+    margin: 70px auto;
+    font-size: 5em;
+    display:block;
+    color: bisque;
+    text-align: center;
+
+}
+
+.around{
+    font-size: 2em;
+    margin:70px auto;
+    display:block;
+    color: bisque;
+
+}
+
+.sick{
+    font-size: 2em;
+    margin:20px 20px 0px auto;
+    display:inline-block;
+    color: bisque;
+}
+
+.down{
+    font-size: 7em;
+    margin:100px auto;
+    display:block;
+    color: bisque;
+}
+
+.up2{
+    color:aqua;
+    font-size: 4em;
+}
+
+#threw{
+    font-family: fantasy;
+    color: rgb(6, 240, 96);
+    font-size: 5em;
+    letter-spacing: -.1em;
+    text-align: center;
+    margin: 0px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+font-family
+font-style
+font-weight
+font-size
+text-align
+line-height
+letter-spacing
+text-transform
+opacity
+ color! (for changing type color)
+background-color (for changing background of an element’s color)
+z-index (for specifies the stack order of an element)
+*/

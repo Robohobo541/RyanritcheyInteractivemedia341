@@ -1,9 +1,26 @@
+body{
+    width:1000px;
+}
 .header{
     text-align: center;
 }
 
 .copy{
     text-align:center;
-    width: 950px;
+    width: 250px;
     margin: 10px auto;
+    display:inline-block;
+    float:left;
+}
+
+.overlay{
+    position:absolute;
+    width:100px;
+    text-align: center;
+    margin:0px 450px;
+}
+
+.container{
+    margin:0px auto;
+    display: inline;
 }

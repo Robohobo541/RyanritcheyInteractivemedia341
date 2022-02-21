@@ -1,0 +1,41 @@
+.header{
+    margin:0px auto;
+    text-align: center;
+}
+
+.copy{
+    width: 900px;
+    margin:100px auto;
+    text-align: center;
+}
+
+.fell{
+    margin: 100px auto;
+    width: 100px;
+    float: left;
+}
+
+.roof{
+    margin: 0px 20px;
+    width:65px;
+    float:left;
+    text-align: center;
+}
+
+.down{
+    display: inline-block;
+    margin: 0px auto;
+}
+
+.dots{
+    display: block;
+    margin:0px auto;
+    width:10px;
+}
+
+.container{
+    display: block;
+    width:100%;
+    margin:0px auto;
+}
+

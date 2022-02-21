@@ -1,0 +1,99 @@
+body{
+    width:5000px
+}
+
+.header{
+    float:left;
+    width:500px;
+    text-align: center;
+    
+    height:2000px;
+}
+
+.shoelace{
+    text-align: center;
+    
+    height:2000px;
+    padding-left: 300px;
+    display:inline;
+    position:relative;
+    float:left;
+}
+
+.fell{
+    
+    text-align: center;
+    width: 500px;
+    height:2000px;
+    display:inline;
+    position:relative;
+    float:left;
+}
+
+.roof{
+    text-align: center;
+    position: relative;
+    display: inline;
+    width:500px;
+    float:left;
+    
+    height: 2000px;
+    margin: 150px 0px 0px 0;
+}
+
+.tree{
+    text-align: center;
+    position: relative;
+    display: inline;
+    width:500px;
+    float:left;
+    
+    height: 2000px;
+    margin: 250px 00px 0px 0;
+}
+
+.colors{
+    text-align: center;
+    position: relative;
+    display: inline;
+    width:500px;
+    float:left;
+    
+    height: 2000px;
+    margin: 300px 0px 0px 0;
+}
+
+.dizzy{
+    text-align: center;
+    position: relative;
+    display: inline;
+    width:500px;
+    float:left;
+    
+    height: 2000px;
+    margin: 250px 0px 0px 0;
+}
+
+.sick{
+    text-align: center;
+    position: relative;
+    display: inline;
+    width:500px;
+    float:left;
+    
+    height: 2000px;
+    margin:200px 0px 0px 0;
+    
+}
+
+.threw{
+    text-align: center;
+    position: relative;
+    display: inline;
+    width:10px;
+    float:left;
+    
+    height: 2000px;
+    margin: 550px 0px 0px 0;
+
+}
