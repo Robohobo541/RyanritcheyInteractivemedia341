@@ -60,3 +60,54 @@
     display: block;
   }
 /* --------------------------------------------------------------------------*/
+
+body{
+  background-color: crimson;
+  height:2000px;
+}
+
+.shel{
+  font-size: 2em;
+  color: #ffffff;
+  text-align: center;
+  margin:0px auto 200px auto;
+}
+.gradient{
+  width:110%;
+  height:500px;
+  padding:0px;
+  background: linear-gradient( rgb(255, 255, 255), crimson);
+  display: block;
+  z-index: -1;
+  position:fixed;
+  margin:-55px auto 0px -10px;
+
+}
+.title{
+  color:rgb(255, 255, 255);
+  font-size: 5em;
+  display:block;
+  margin:150px auto 200px auto;
+  text-align: center;
+  letter-spacing: .5em;
+  transform:scale(1,4)
+  
+}
+
+.copy{
+  display:inline-block;
+  font-size: 7em;
+  font-weight: bolder;
+  line-height: 1em;
+  color:crimson;
+  margin: 0px 5px auto 5px;
+  text-align: center;
+  transition-timing-function: ease-in-out;
+  transition-duration: .5s;
+}
+
+
+.copy:hover{
+  color:rgb(255, 255, 255);
+  font-size:6em;
+}

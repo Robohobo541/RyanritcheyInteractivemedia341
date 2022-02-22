@@ -60,3 +60,131 @@
     display: block;
   }
 /* --------------------------------------------------------------------------*/
+
+body{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 4em;
+  color: fuchsia;
+  background-color: cyan;
+  text-align: center;
+}
+
+.title{
+font-size: 5em;
+text-shadow: black 7px 7px;
+transition-duration: .5s;
+}
+
+.title:hover{
+  color:white;
+  text-shadow:7px 7px fuchsia;
+}
+
+.shel{
+color:white;
+margin:100px auto 20px auto;
+}
+
+.letters{
+  transition-duration: .5s;
+}
+.letters:hover{
+  font-size: 4em;
+  color:rgb(0, 26, 255);
+  text-shadow: 6px 6px white;
+}
+
+.tripped{
+  font-size: 2em; 
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 100px auto;
+}
+
+.up{
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bolder;
+  margin: 160px auto 160px auto;
+  transition-timing-function: ease;
+  transition-duration: .5s;
+  height:200px;
+  font-size: 7em;
+  text-shadow: 8px 8px white;
+  display:block;
+}
+
+.up:hover{
+  margin: -40px auto 200px auto;
+  color:white;
+  text-shadow:none;
+}
+
+.fellup{
+  letter-spacing: 1em;
+}
+
+.roof{
+
+}
+
+.town{
+  
+}
+
+.tree{
+ 
+}
+
+.mountains{
+ 
+}
+
+.colors{
+
+}
+
+.sounds{
+  margin:20px auto 100px auto;
+ 
+}
+
+.dizzy{
+letter-spacing: 2em;
+margin:30px auto 50px auto;
+}
+
+.looked{
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+  text-shadow:none;
+}
+
+.looked:hover{
+  letter-spacing: .5em;
+  color: rgb(89, 222, 255);
+  text-shadow: 6px 6px white;
+}
+
+.around{
+ 
+}
+
+.sick{
+
+}
+.threw{
+  margin: 30px auto 30px auto;
+}
+.down{
+  height:300px;
+ font-size: 7em;
+ transition-duration:.5s;
+ transition-timing-function: ease-in-out;
+}
+
+.down:hover{
+  font-size: .1em;
+  color: aqua;
+}
+
+.container{
+ 

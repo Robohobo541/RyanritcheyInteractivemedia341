@@ -60,3 +60,256 @@
     display: block;
   }
 /* --------------------------------------------------------------------------*/
+
+body{
+  margin: 0px auto;
+}
+
+.title{
+font-size: 6em;
+text-align: center;
+margin:100px auto;
+letter-spacing: .3em;
+color:coral
+}
+
+.shel{
+  font-size: 2em;
+  text-align: center;
+  margin:100px auto;
+  letter-spacing: .3em;
+  margin:-70px auto 100px auto;
+}
+
+.tripped{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: aquamarine;
+  line-height:6em;
+  color:rgb(0, 133, 71);
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.tripped:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.fellup{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(15, 167, 116);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.fellup:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+.roof{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(101, 202, 169);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.roof:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+.town{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(15, 105, 75);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.town:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.tree{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(10, 134, 93);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.tree:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.mountains{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(56, 131, 106);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.mountains:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.colors{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(118, 146, 137);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.colors:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.sounds{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(0, 56, 37);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.sounds:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.dizzy{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(32, 51, 45);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.dizzy:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.around{
+  float:left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(90, 105, 100);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.around:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.sick{
+  float: left;
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(52, 114, 93);
+  line-height:6em;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+.sick:hover{
+  background-color: chocolate;
+  color:rgb(227, 187, 255);
+  font-size: 2em;
+  line-height:3em;
+}
+
+.down{
+  width:30%;
+  display:inline-block;
+  height:100px;
+  text-align: center;
+  background-color: rgb(0, 255, 170);
+  line-height:6em;
+  color:rgb(255, 255, 255);
+  text-shadow: 1px 1px blueviolet;
+  font-weight: bolder;
+  transition-duration:3s;
+  transition-timing-function: ease-in-out;
+}
+
+.down:hover{
+  height:3000px;
+  line-height: 300em;
+  
+}
+
+.container{
+color:#ddd;
+margin:0px auto 0px 60px;
+}

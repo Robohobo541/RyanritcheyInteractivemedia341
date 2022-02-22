@@ -60,3 +60,143 @@
     display: block;
   }
 /* --------------------------------------------------------------------------*/
+.manyup{
+  width:110%;
+  height:110%;
+  display:block;
+  position:fixed;
+  height:auto;
+  font-size: 5em;
+  line-height:.5em;
+  letter-spacing: -.1em;
+  text-align: center;
+  margin:-200px auto 100px -5%;
+  color: aqua;
+  z-index: -2;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+body{
+  background-color: rgb(173, 173, 255);
+ 
+  
+}
+
+.title{
+  display:block;
+  margin: 100px auto;
+  font-size: 5em;
+  color: rgb(255, 145, 0);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.shel{
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto 150PX;
+}
+
+.tripped{
+  font-size: 5em;
+  color: rgb(22, 6, 163);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.fellup{
+  font-size: 7em;
+  color: rgb(0, 162, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.roof{
+  font-size: 7em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.town{
+  font-size: 4em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.tree{
+  font-size: 6em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.mountains{
+  font-size: 5em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.colors{
+  font-size: 9em;
+  color: rgb(0, 110, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.sounds{
+  font-size: 4em;
+  color: rgb(76, 129, 199);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.dizzy{
+  font-size: 6em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.around{
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.sick{
+  font-size: 3em;
+  color: rgb(255, 255, 255);
+  letter-spacing: 1em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.down{
+  font-size: 10em;
+  color: rgb(255, 224, 253);
+  letter-spacing: .2em;
+  text-align: center;
+  margin:0px auto;
+}
+
+.container{
+
+}
