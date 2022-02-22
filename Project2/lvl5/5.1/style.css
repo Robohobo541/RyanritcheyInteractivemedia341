@@ -60,3 +60,274 @@
     display: block;
   }
 /* --------------------------------------------------------------------------*/
+
+body{
+  
+}
+
+
+.title{
+ color: #d8d8d8;
+ width:90%;
+ height:700px;
+ background-color: rgb(100, 139, 175);
+ font-size: 5em;
+ line-height:5em;
+ position:fixed;
+ margin: -600px 0 0 30px;
+ z-index: -3;
+ letter-spacing: .5em;
+ 
+}
+
+.title:hover{
+  transition-duration: 1s;
+color: #FFFFFF;
+}
+
+.shel{
+  font-size: large;
+  color: #FFFFFF;
+  display:block;
+  position:relative;
+  margin:-3900px auto 200px;
+  transition-duration: 1s;
+  transition-timing-function: ease-in ease-out;
+}
+
+.shel:hover{
+  color:#00b7ff;
+  font-size: 3em;
+}
+
+.em:hover{
+  color:#ff0022;
+  font-size: 3em;
+}
+.ball{
+background-color:#a3466a;
+height:200px;
+width:200px;
+border-radius: 100px;
+display: inline-block;
+margin:-100px 0px 0px -20px;
+}
+
+.ball2{
+  background-color:#ffffff;
+  height:50px;
+  width:50px;
+  border-radius: 100px;
+  display: inline-block;
+  margin:100px 20px 100px 20px;
+  z-index: 2;
+  }
+
+.bag{
+margin: 500px 0px 0px -10%;
+width:120%;
+}
+
+.overlay{
+  background-color: #a3466a;
+  width:120%;
+  height:4000px;
+  z-index: -1;
+  margin: -110px auto auto -10px;
+  display:absolute;
+}
+
+.tripped{
+  font-size: 2em;
+  width:60%;
+  text-align: center;
+  margin: 0px auto 30px;
+  line-height: 2em;
+  position:relative;
+  transition-duration: 1s;
+  color: cadetblue;
+
+}
+
+.fellup{
+  color:cadetblue;
+ font-size: 4em;
+ position:absolute;
+ display: block;
+ margin:0px auto 60px auto;
+ width: 100%;
+}
+
+.hr{
+  width:300px;
+}
+.up{
+  font-size: 10em;
+  margin: 0px auto 20px;
+  width: 200px;
+  height:200px;
+  transition-duration: 2s;
+  color:aqua;
+ 
+}
+
+.up:hover{
+  background-color: #00b7ff;
+  width:250px;
+  height:250px;
+  border-radius: 140px;
+  color:white;
+  display: block;
+  position:relative;
+  margin:-20px auto;
+}
+#up1{
+  font-size: 10em;
+  margin: 240px auto 20px;
+  width: 200px;
+  height:200px;
+  transition-duration: 2s;
+  color:aqua
+}
+
+#up1:hover{
+  background-color: #00b7ff;
+  width:250px;
+  height:250px;
+  border-radius: 140px;
+  color:white;
+  display: block;
+  position:relative;
+  margin:-20px auto;
+}
+.roof{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+  height:100px;
+}
+
+.town{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+  text-align: center;
+  
+}
+
+.tree{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.mountains{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.colors{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.sounds{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.dizzy{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+  width:100%;
+  line-height:3em;
+  font-size: 5em;
+  margin: 0px auto;
+}
+
+.letters{
+  display:inline-block;
+  background-color: blueviolet;
+  width:150px;
+  height:150px;
+  transition-duration: .5s;
+  line-height:1.6em;
+  margin:0px 10px 0px 10px;
+}
+
+.letters:hover{
+  width:200px;
+  height:200px;
+  border-radius:150px;
+  background-color:darkturquoise;
+  line-height:2.9em;
+  
+}
+
+.around{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.sick{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.threw{
+  color: #FFFFFF;
+  display: block;
+  font-size: 5em;
+  z-index: 2;
+  position: relative;
+}
+
+.down{
+  color: #FFFFFF;
+  display: block;
+  font-size: 25em;
+  z-index: 2;
+  position: relative;
+  transition-duration: 2s;
+  transition-timing-function: ease-in-out;
+  background-color: #a3466a;
+  border-radius: 40px;
+}
+
+.down:hover{
+  color:#a3466a;
+  font-size: .2em;
+}
+
+.container{
+  position:relative;
+  display:block;
+  width:90;
+  margin:100px auto;
+  text-align: center
+  ;
+}

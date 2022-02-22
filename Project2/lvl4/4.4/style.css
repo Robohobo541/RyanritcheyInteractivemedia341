@@ -144,7 +144,7 @@
 .roof{
   position:relative;
   display:block;
-  margin: 200px auto 50px;
+  margin: 200px auto 150px;
   text-align: center;
   font-size: 2em;
   color:white;
@@ -187,7 +187,7 @@
 }
 
 .colors{
-  margin: 200px auto;
+  margin: 150px auto;
   position:absolute;
   display:block;
   text-align: center;
@@ -202,7 +202,7 @@
   width:90%;
   font-size: 6em;
   text-align: center;
-  margin: 210px auto 30px auto;
+  margin: 300px auto 30px auto;
   color:rgb(250, 174, 139)
       
 }
