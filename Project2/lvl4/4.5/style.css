@@ -71,12 +71,13 @@
   margin: 0px auto;
   z-index: 2; 
   text-align: center; 
+  padding-top: 100px;
 }
 
 .copy2{
   display:block;
   width: 90%;
-  margin:-3500px 0px 0px 4%;
+  margin:-3600px 0px 0px 4%;
   position:fixed;
   text-align: center;
   font-size: 1em;
