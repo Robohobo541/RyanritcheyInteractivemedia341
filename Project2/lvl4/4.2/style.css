@@ -59,25 +59,50 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
-/* --------------------------------------------------------------------------*/
+
+body{
+    background-color: rgb(110, 223, 223);
+}
+
+.container{
+    background-color: bisque;
+}
 
 .title{
-    display:block;
-    float: right;
+    margin:150px auto 30px auto;
+    font-family:"Sofia", sans-serif;;
+    font-size: 7em;
+    text-align: center;
+    color:rgb(255, 0, 179)
 }
 
 .shel{
-    text-align: right;
-    float: right;
-    display:block;
-    margin-top: 100px;
-    margin-right: -100px;
-}
-
-.top{
-}
-
-.up{
-    margin: 10px auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: .4em;
     text-align: center;
+    color:white;
+}
+
+.copy1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 13em;
+    width: 1200px;
+    margin:100px auto;
+    letter-spacing: -.1em;
+    line-height: .51em;
+}
+
+.copy2{
+    color: rgb(255, 0, 234);
+    position:relative;
+    font-size: 3em;
+    display: block;
+    width:800px;
+    height:auto;
+    text-align: center;
+    margin:-4400px auto;
+    line-height: 2em;
+    letter-spacing: 2em;
+    text-shadow: 2px 2px #ffffff;
 }
