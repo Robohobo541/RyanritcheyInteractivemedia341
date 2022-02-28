@@ -1,0 +1,65 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    padding:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header{
+   color: aliceblue;
+   text-align: center;
+   font-size: 2em;
+   text-shadow: 5px 5px pink;
+}
+
+h1{
+    margin:60px auto 0px auto;
+}
+
+h2{
+    margin:0px auto 60px auto;
+}
+
+body{
+    background-color: rgb(139, 173, 224);
+}
+
+.exercises{
+   
+    text-decoration: none;
+    width: 50%;
+    display:block;
+    text-align: center;
+    margin:-10px auto;
+} 
+
+.projects{
+    
+    text-decoration: none;
+    width: 50%;
+    display:block;
+    text-align: center;
+    margin:100px auto 30px auto;
+} 
+
+.container{
+    width: 65%;
+    margin:0px auto;
+    background-color: rgb(255, 217, 252);
+    border-radius: 5px;
+    border: 10px solid rgb(255, 178, 245);
+}
+
+li{
+    display:inline-block;
+    margin:20px 10px 0px 10px;
+    background-color: rgb(165, 37, 165);
+    color: blanchedalmond;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
