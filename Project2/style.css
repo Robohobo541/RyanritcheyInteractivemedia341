@@ -1,11 +1,14 @@
 body{
-    
-    background-image: url('../../RyanritcheyInteractivemedia341/Project2/images/crusin.gif');
     background-size: 100%;
-    background-color: rgb(0, 0, 0);
+   
     background-repeat: no-repeat;
     text-align: center;
-
+    background-image: url(/images/town.png);
+    -o-background-size:100% auto;
+    -webkit-background-size:100% auto;
+    -moz-background-size:100% auto;
+    background-size:100% 900px;
+    max-height:200px;
     height: 100vh;
     padding:0;
     margin: top 30px;
@@ -104,10 +107,34 @@ a {
     text-align: center;
 }
 
-
-
 a {
     text-decoration:none;
     font-family:Arial;
     display: block;
+}
+
+.container{
+    width:40%;
+    float:left;
+    margin: 100px 0px 0px 100px;
+    display:block;
+    position: absolute;
+}
+
+.image{
+    width:200px;
+    height: auto;
+    background-image: url(/images/kid.png);
+    z-index:2;
+    float:right;
+    display: block;
+    position: relative;
+    margin:0px 30% 0px 0px;
+}
+
+.title{
+    display: block;
+    position:absolute;
+    width:100%;
+    margin:400px auto;
 }
