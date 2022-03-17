@@ -63,3 +63,25 @@ a{
     transition-timing-function: ease-in-out;
     box-shadow: 5px 5px rgb(77, 20, 0)
 }
+
+.sketch2{
+    height:400px;
+    width:auto;
+    margin: -10px -50px;
+    padding:0px;
+}
+
+.sketch1:hover{
+    position:relative;
+    top:-25px;
+    left:-35px;
+    display:block;
+    z-index:999;
+    transition-duration: 1s;
+}
+.imgcnt:hover{
+    position:absolute;
+    display:contents;
+    transition-duration:1s;
+    z-index: 999;
+}
